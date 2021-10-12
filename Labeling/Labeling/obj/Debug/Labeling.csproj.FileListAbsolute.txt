@@ -1,0 +1,6 @@
+C:\work\VisualStudio\新人研修用\Labeling\Labeling\bin\Debug\Labeling.exe.config
+C:\work\VisualStudio\新人研修用\Labeling\Labeling\obj\Debug\Labeling.csprojResolveAssemblyReference.cache
+C:\work\VisualStudio\新人研修用\Labeling\Labeling\bin\Debug\Labeling.exe
+C:\work\VisualStudio\新人研修用\Labeling\Labeling\bin\Debug\Labeling.pdb
+C:\work\VisualStudio\新人研修用\Labeling\Labeling\obj\Debug\Labeling.exe
+C:\work\VisualStudio\新人研修用\Labeling\Labeling\obj\Debug\Labeling.pdb
